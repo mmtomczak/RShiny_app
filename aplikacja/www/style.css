@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+body {
+    font-family: Montserrat;
+    padding: 3em;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
